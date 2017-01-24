@@ -1,0 +1,14 @@
+db:
+  development:
+    host: 192.168.33.10
+    user: postgres
+    password: postgres
+    dbname: postgres
+    port: 5432
+
+  product:
+    host: localhost
+    user: user
+    password: password
+    dbname: realdb
+    port: 5432
